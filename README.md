@@ -1,27 +1,16 @@
 
 # Chatbot with Streamlit and Groq
 
-![Chatbot Playground](<./AI%20Stocks%20Application%20(10).png>)
-
-## Live Project Link
-<a href="https://abetavarez-groq-chatbot.streamlit.app/" target="_blank">View Live Project</a>
-
 ## Description 
 
 Build a <b>Chatbot App</b> with Python, Streamlit, and Groq.
-
-### Follow the step-by-step tutorial here:
-
-<a href="https://youtu.be/JVgTTsTMW5c?si=2-ccEDChUaTdyUGg">
-    <img src="./yt_logo_rgb_dark.png" alt="youtube logo"/>
-</a>
 
 ### Cloning 
 
 ###### From your terminal:
 
 1. Clone this repo with:
-   `git clone https://github.com/AbeTavarez/streamlit-groq-chatbot.git`
+   `git clone https://github.com/bigman1208000/streamlit-groq-chatbot.git`
 
 2. Change into the project folder:
    `cd streamlit-groq-chatbot`
